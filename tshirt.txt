@@ -1,8 +1,4 @@
 1. 깃허브 티셔츠
 2. 파이썬 티셔츠
 <<<<<<< HEAD
-dkssudgktpdy~
-=======
-dkssudgktpdy~
-gpgp~
->>>>>>> fea/cart
+이거저거 수정
